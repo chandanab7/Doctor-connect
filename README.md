@@ -40,8 +40,8 @@
 
 ### 🛠️ Tech Stack (Example)
 
-- **Frontend**: HTML, CSS, JavaScript (React or plain JS)
-- **Backend**: Python Flask or Java Spring Boot
-- **Database**: MySQL or MongoDB
+- **Frontend**: HTML, CSS, JavaScript 
+- **Backend**: Python Flask 
+- **Database**: MySQL
 - **Hosting**: Cloud-based or local server deployment
 
